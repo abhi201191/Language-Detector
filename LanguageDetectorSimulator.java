@@ -58,6 +58,7 @@ public class LanguageDetectorSimulator {
 				
 			case 3:		
 				repeat = 0 ;
+				System.out.println("End of Program");
 				System.exit(0);
 				break;
 
@@ -65,6 +66,6 @@ public class LanguageDetectorSimulator {
 				System.out.println("Enter Correct choice");
 				break;
 			}
-		}
+		}	
 	}
 }
